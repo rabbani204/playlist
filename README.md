@@ -1,7 +1,7 @@
 # playlist
 I have have complete this peoject on my Database Course. In this project any user can register by using their email address and they can collect their fovourate song or any video link from youtoube embeded link and they can play those song on our website. finaly is user want he/she can share those playList with their relatives or friends by using a SHARE CODE provided by Website.
 
-WHat Is Use ???
+WHat Is Used ???
 
     Booststrap
     html5
