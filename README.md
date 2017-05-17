@@ -11,41 +11,42 @@ WHat Is Use ???
     
     PHP (Not OOP)
     MYSQLI
-    
-    I have use 1 database and 3 table
-    
-    first databse: user
-    
-   CREATE TABLE `user` (
-  `id` int(100) NOT NULL,
-  `name` varchar(100) NOT NULL,
-  `username` varchar(100) NOT NULL,
-  `password` varchar(100) NOT NULL,
-  `email` varchar(100) NOT NULL
-  )
-    
-    
-   second databse :
-   
-   CREATE TABLE `filelist` (
-  `id` int(11) NOT NULL,
-  `user_id` int(11) NOT NULL,
-  `title` varchar(255) NOT NULL,
-  `catagory` varchar(100) NOT NULL,
-  `file` text NOT NULL,
-  `playcount` int(100) NOT NULL
-   )
-   
-   
-   3rd database :
-   
-   CREATE TABLE `shareinfo` (
-  `shareid` int(100) NOT NULL,
-  `user_id` int(100) NOT NULL,
-  `share_code` varchar(100) NOT NULL,
-  `value` int(1) NOT NULL
-  ) 
-   
+  
+  
+  
+   I have use 1 database and 3 table
+       first databse: user
+
+           CREATE TABLE `user` (
+          `id` int(100) NOT NULL,
+          `name` varchar(100) NOT NULL,
+          `username` varchar(100) NOT NULL,
+          `password` varchar(100) NOT NULL,
+          `email` varchar(100) NOT NULL
+          )
+
+
+      second databse :
+
+           CREATE TABLE `filelist` (
+          `id` int(11) NOT NULL,
+          `user_id` int(11) NOT NULL,
+          `title` varchar(255) NOT NULL,
+          `catagory` varchar(100) NOT NULL,
+          `file` text NOT NULL,
+          `playcount` int(100) NOT NULL
+           )
+
+
+       3rd database :
+
+           CREATE TABLE `shareinfo` (
+          `shareid` int(100) NOT NULL,
+      `    user_id` int(100) NOT NULL,
+      `    share_code` varchar(100) NOT NULL,
+      `    value` int(1) NOT NULL
+           ) 
+
   
    
     
