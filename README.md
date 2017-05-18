@@ -15,7 +15,7 @@ WHat Is Used ???
   
   
    I have use 1 database and 3 table
-       first databse: user
+       first table: user
 
            CREATE TABLE `user` (
           `id` int(100) NOT NULL,
