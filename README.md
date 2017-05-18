@@ -47,7 +47,7 @@ WHat Is Used ???
       `    value` int(1) NOT NULL
            ) 
 
-  
+  Details about the project: https://www.youtube.com/watch?v=j-UoCgVZ61Y&feature=youtu.be
    
     
     
