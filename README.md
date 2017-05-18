@@ -26,7 +26,7 @@ WHat Is Used ???
           )
 
 
-      second databse :
+      second table :
 
            CREATE TABLE `filelist` (
           `id` int(11) NOT NULL,
@@ -38,7 +38,7 @@ WHat Is Used ???
            )
 
 
-       3rd database :
+       3rd table :
 
            CREATE TABLE `shareinfo` (
           `shareid` int(100) NOT NULL,
